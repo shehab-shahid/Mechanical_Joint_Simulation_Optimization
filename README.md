@@ -4,3 +4,5 @@
 * The results of the gradient-based optimization algorithms amazed me and propelled my interest in digital technology
 * Minimal coding was required in this project (loops, variables etc.) as optimization was built into the simulation software (no MatLab or Python)
 * Below is a dashboard summarizing the project
+
+![](images/OptimizationDashboard.png)
